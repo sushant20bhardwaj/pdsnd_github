@@ -8,7 +8,7 @@ Bikeshare
 Project is for renting bikes
 
 ### Files used
-chicago.csv washington.csv new_york_city.csv bikeshare.py
+chicago.csv washington.csv new_york_city.csv bikeshare.py (total four files)
 
 ### Credits
 All credits goes to udacity
