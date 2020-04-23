@@ -2,7 +2,7 @@
 24 april 2020
 
 ### Project Title
-Bikeshare
+Bikeshare (rental for bikes in 3 cities)
 
 ### Description
 Project is for renting bikes
